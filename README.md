@@ -23,6 +23,7 @@ Currently learning...
 <a href="https://www.leetcode.com/https://leetcode.com/u/marie-caro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/marie-caro/" height="30" width="40" /></a>
 <a href="https://discord.gg/naueespacial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="naueespacial" height="30" width="40" /></a>
 </p>
+
 - 📫 **marie-caroline.beck@epitech.eu**
 <!--
 **marie-caro/marie-caro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
