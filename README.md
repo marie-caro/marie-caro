@@ -4,9 +4,8 @@
   <img src="https://img.shields.io/badge/English-green" alt="English" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(97deg) brightness(103%) contrast(103%);" />
   <img src="https://img.shields.io/badge/French-blue" alt="French" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(201deg) brightness(103%) contrast(103%);" />
   <img src="https://img.shields.io/badge/Spanish-red" alt="Spanish" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(3deg) brightness(103%) contrast(103%);" />
-  <img src="https://img.shields.io/badge/Catalan-yellow" alt="Catalan" style="filter: invert( 75%)
+  <img src="https://img.shields.io/badge/Catalan-yellow" alt="Catalan" style="filter: invert( 75%);" />
 </p>
-<p></p>
 
 <p align="left">
 - 🌱  Currently finishing my first year at Epitech Barcelona.
