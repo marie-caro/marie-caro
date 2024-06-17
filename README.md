@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marie</h1>
 <h3 align="center">Tek1 at Epitech Bcn</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/English-fluent-red" alt="English" />
-  <img src="https://img.shields.io/badge/French-native-blue" alt="French" />
-  <img src="https://img.shields.io/badge/Spanish-fluent-yellow" alt="Spanish" />
-  <img src="https://img.shields.io/badge/Catalan-advanced-orange" alt="Catalan" />
+  Language badges:
+  <img src="https://img.shields.io/badge/English-🇬🇧-green" alt="English" />
+  <img src="https://img.shields.io/badge/French-🇫🇷-blue" alt="French" />
+  <img src="https://img.shields.io/badge/Spanish-🇪🇸-red" alt="Spanish" />
+  <img src="https://img.shields.io/badge/Catalan-yellow" alt="Catalan" />
 </p>
 
 - 🌱  Currently finishing my first year at Epitech Barcelona.
