@@ -7,11 +7,13 @@
   <img src="https://img.shields.io/badge/Catalan-yellow" alt="Catalan" style="filter: invert( 75%)
 </p>
 
+<p align="left">
 - 🌱  Currently finishing my first year at Epitech Barcelona.
 
 - 🔜 Starting an internship from July to December.
 
 - ⚡ Fun fact **I enjoy learning languages**
+</p>
 
 <h2 align="left">Languages and Tools:</h2>
 Already know...
