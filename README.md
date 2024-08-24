@@ -31,8 +31,6 @@ Already worked with...
 <p align="left">
 <a href="https://linkedin.com/in/beck-marie/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/beck-marie/" height="30" width="40" /></a>
 <a href="https://instagram.com/marie_caro._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marie_caro._" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/marie-caro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/marie-caro/" height="30" width="40" /></a>
-<a href="https://discord.gg/naueespacial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="naueespacial" height="30" width="40" /></a>
 </p>
 
 📫 **marie-caroline.beck@epitech.eu**
