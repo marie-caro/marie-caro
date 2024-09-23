@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Catalan-yellow" alt="Catalan" style="filter: invert( 75%);" />
 </p>
 
-- 🌱  Currently to start my second year at Epitech Barcelona.
+- 🌱  Currently in my second year at Epitech Barcelona.
 
 - 🔜 Starting an internship from July to December -> Asistente Pedagógica
 
