@@ -9,7 +9,7 @@
 
 - 🌱  Currently in my second year at Epitech Barcelona.
 
-- 🔜 Starting an internship from July to December -> Asistente Pedagógica
+- 🔜 Ended my internship as pedagogical assistant for the first years -> Currently in the second semester / Tek2 Pool :'( /
 
 - ⚡ Fun fact **I enjoy learning languages**
 
