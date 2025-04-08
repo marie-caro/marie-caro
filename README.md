@@ -33,6 +33,19 @@ Already worked with...
   </a>
 </p>
 
+<h2 align="left"> Projects available on my page:</h2>
+  <p align="left">With C language:<\p>
+  <p><a href="https://github.com/marie-caro/Radar---Air-Traffic-Simulation-Panel" target="_blank" rel="noreferrer">Air Traffic Simulator (as a first year student)</a></p>
+  <p> <a href="https://github.com/marie-caro/My-Lib" target="_blank" rel="noreferrer">Recoded functions from the LibC (as a first year student)</a></p>
+  <p><a href="https://github.com/marie-caro/Mini-Duck-Hunt" target="_blank" rel="noreferrer">MiniVideo Game: Duck Hunt (as a first year student)</a></p>
+  <p><a href="https://github.com/marie-caro/minishell1" target="_blank" rel="noreferrer">TCSH Shell reproduction (as a first year student)</a></p>
+  <p> Other:</p>
+  <p><a href="https://github.com/marie-caro/Minishell-Testing" target="_blank" rel="noreferrer">Testing Script to test the shell (as a first year student)</a></p>
+  <p><a href="https://github.com/marie-caro/Chocolatine-Epitech-Github-Actions-Project" target="_blank" rel="noreferrer">GitHub Actions Project (as a first year student)</a></p>
+  <p><a href="https://github.com/marie-caro/Simple-Makefile-Generator" target="_blank" rel="noreferrer">Simple Makefile Generator (as a first year student)</a></p>
+  <p><a href="https://github.com/marie-caro/PopEye---Epitech-Docker-Project" target="_blank" rel="noreferrer">Introduction to Docker (as a first year student)</a></p>
+</h2>
+
 <h2 align="left"> Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/beck-marie/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/beck-marie/" height="30" width="40" /></a>
