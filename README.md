@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Catalan-yellow" alt="Catalan" style="filter: invert( 75%);" />
 </p>
 
-- 🌱  Currently in my second year at Epitech Barcelona.
+- 🌱  Currently in my third year at Epitech Barcelona.
 
 - 🔜 Ended my internship as pedagogical assistant for the first years -> Currently in the second semester / Tek2 Pool :'( /
 
