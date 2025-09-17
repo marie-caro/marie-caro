@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marie</h1>
-<h3 align="center">Tek2 at Epitech Bcn</h3>
+<h3 align="center">Tek3 at Epitech Bcn</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/English-green" alt="English" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(97deg) brightness(103%) contrast(103%);" />
   <img src="https://img.shields.io/badge/French-blue" alt="French" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(201deg) brightness(103%) contrast(103%);" />
@@ -9,7 +9,7 @@
 
 - 🌱  Currently in my third year at Epitech Barcelona.
 
-- 🔜 Ended my internship as pedagogical assistant for the first years -> Currently in the second semester / Tek2 Pool :'( /
+- 🔜 Currently focusing on web development
 
 - ⚡ Fun fact **I enjoy learning languages**
 
