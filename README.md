@@ -33,7 +33,7 @@ Already worked with...
 </p>
 
 <h2 align="left"> Projects available on my page:</h2>
-  <p align="left">With C language:<\p>
+  <p align="left">With C language:
   <p><a href="https://github.com/marie-caro/Radar---Air-Traffic-Simulation-Panel" target="_blank" rel="noreferrer">Air Traffic Simulator (as a first year student)</a></p>
   <p> <a href="https://github.com/marie-caro/My-Lib" target="_blank" rel="noreferrer">Recoded functions from the LibC (as a first year student)</a></p>
   <p><a href="https://github.com/marie-caro/Mini-Duck-Hunt" target="_blank" rel="noreferrer">MiniVideo Game: Duck Hunt (as a first year student)</a></p>
