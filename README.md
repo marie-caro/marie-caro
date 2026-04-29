@@ -13,10 +13,10 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Final-year Software Engineering student at **Epitech Barcelona** (Top 3 of cohort)
+- 🎓 Final-year Software Engineering student at **Epitech Barcelona** - Top 3 of cohort
 - 📱 iOS Engineer Intern in **Design Systems @ Back Market**
-- 🚀 Interested in **SwiftUI, Developer Experience, Mobile Architecture and Performance**
-- 🌱 Currently deepening knowledge in **Swift Concurrency, iOS Architecture and Testing**
+- 🌱 Interested in **SwiftUI, Developer Experience, Mobile Architecture and Performance**
+
 - ⚡ Fun fact: I love learning languages
 
 
