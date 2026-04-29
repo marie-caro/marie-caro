@@ -53,7 +53,7 @@ C • C++ • Haskell • Networking • Multithreading • Memory Management
 
 React • Liferay • Docker • GitHub Actions • Jenkins
 
-
+![snake dark](https://raw.githubusercontent.com/marie-caro/marie-caro/output/github-contribution-grid-snake-dark.svg)
 
 ## ⭐ Featured Projects
 
