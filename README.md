@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋 I'm Marie</h1>
 <h3 align="center">iOS Engineer • Swift / SwiftUI • Design Systems • Epitech Barcelona</h3>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marie-caro/marie-caro/output/github-contribution-grid-snake-dark.svg" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/English-green" />
   <img src="https://img.shields.io/badge/French-blue" />
@@ -53,7 +55,6 @@ C • C++ • Haskell • Networking • Multithreading • Memory Management
 
 React • Liferay • Docker • GitHub Actions • Jenkins
 
-![snake gif](https://raw.githubusercontent.com/marie-caro/marie-caro/output/github-contribution-grid-snake.svg)
 
 ## ⭐ Featured Projects
 
