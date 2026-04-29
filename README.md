@@ -59,7 +59,7 @@ React • Liferay • Docker • GitHub Actions • Jenkins
 ## ⭐ Featured Projects
 
 ### iOS
-- 
+- [DesignPedia](https://github.com/marie-caro/Designpedia)
 
 ### C/C++
 - [Air Traffic Simulator](https://github.com/marie-caro/Radar---Air-Traffic-Simulation-Panel)
