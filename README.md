@@ -37,11 +37,10 @@ Swift • SwiftUI • UIKit • Design Systems • Snapshot Testing
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
 </p>
 
-C • C++ • Haskell • Networking • Multithreading • Memory Management
+C • C++ • Networking • Multithreading • Memory Management
 
 
 
@@ -53,7 +52,7 @@ C • C++ • Haskell • Networking • Multithreading • Memory Management
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45"/>
 </p>
 
-React • Liferay • Docker • GitHub Actions • Jenkins
+React • Docker • GitHub Actions • Jenkins
 
 
 ## ⭐ Featured Projects
