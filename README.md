@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Marie</h1>
-<h3 align="center">iOS Engineer • Swift / SwiftUI • Design Systems • Epitech Barcelona</h3>
+<h3 align="center">iOS / Software Engineer • Epitech Alumni </h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/marie-caro/marie-caro/output/github-contribution-grid-snake-dark.svg" />
 </p>
@@ -13,9 +13,9 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Final-year Software Engineering student at **Epitech Barcelona** - Top 3 of cohort
-- 📱 iOS Engineer Intern in **Design Systems @ Back Market**
-- 🌱 Interested in **SwiftUI, Developer Experience, Mobile Architecture and Performance**
+- 🎓 New Grad in Software Engineering, **Epitech Barcelona** alumni - Top 3 of cohort
+- 📱 Previously iOS Engineer Intern in **Design Systems @ Back Market**
+- 🌱 Interested in **Mobile & Web Development**
 
 - ⚡ Fun fact: I love learning languages
 
@@ -29,9 +29,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="45"/>
 </p>
 
-Swift • SwiftUI • UIKit • Design Systems • Snapshot Testing
-
-
+Swift • SwiftUI • Swift Concurrency • Design Systems • Snapshot Testing
 
 ### Systems / Programming
 <p>
@@ -40,25 +38,24 @@ Swift • SwiftUI • UIKit • Design Systems • Snapshot Testing
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
 </p>
 
-C • C++ • Networking • Multithreading • Memory Management
+C • C++ • Data Structures • Networking • Multithreading • Memory Management
 
-
-
-### Web / DevOps
+### Full Stack
 <p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45"/>
 </p>
 
-React • Docker • GitHub Actions • Jenkins
-
+Java • Spring Boot • REST APIs • PostgreSQL • React • Docker
 
 ## ⭐ Featured Projects
 
 ### iOS
 - [DesignPedia](https://github.com/marie-caro/Designpedia)
+- [SkyPocket](https://github.com/marie-caro/SkyPocket)
 
 ### C/C++
 - [Air Traffic Simulator](https://github.com/marie-caro/Radar---Air-Traffic-Simulation-Panel)
