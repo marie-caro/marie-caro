@@ -14,7 +14,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 New Grad in Software Engineering, **Epitech Barcelona** alumni - Top 3 of cohort
-- 📱 Previously iOS Engineer Intern in **Design Systems @ Back Market**
+- 💼 Previously iOS Engineer Intern in **Design Systems @ Back Market**
 - 🌱 Passionate about Software Engineering, AI & Emerging Technologies
 - 🧠 Always curious
 
@@ -23,7 +23,7 @@
 
 ## 🛠 Tech Stack
 
-### Mobile
+### Mobile Engineering
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="45"/>
 <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="45"/>
@@ -41,7 +41,7 @@ Swift • SwiftUI • Swift Concurrency • Design Systems • Snapshot Testing
 
 C • C++ • Data Structures • Networking • Multithreading • Memory Management
 
-### Full Stack
+### Backend & Full Stack
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/>
@@ -69,8 +69,9 @@ Java • Spring Boot • REST APIs • PostgreSQL • React • Docker
 - [Makefile Generator](https://github.com/marie-caro/Simple-Makefile-Generator)
 
 ## 📈 Currently Exploring
-- Swift Concurrency
-- Advanced SwiftUI
+- ⚙️ Software Engineering: System Design, Architecture & Scalability
+- 🐍 Python: Expanding my programming toolkit and exploring AI development
+- 🤖 Artificial Intelligence & LLMs: Understanding modern AI systems and their applications
 
 
 ## 🤝 Connect With Me
