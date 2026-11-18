@@ -15,7 +15,8 @@
 
 - 🎓 New Grad in Software Engineering, **Epitech Barcelona** alumni - Top 3 of cohort
 - 📱 Previously iOS Engineer Intern in **Design Systems @ Back Market**
-- 🌱 Interested in **Mobile & Web Development**
+- 🌱 Passionate about Software Engineering, AI & Emerging Technologies
+- 🧠 Always curious
 
 - ⚡ Fun fact: I love learning languages
 
